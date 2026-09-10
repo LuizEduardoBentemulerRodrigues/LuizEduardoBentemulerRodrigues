@@ -1,16 +1,17 @@
-## Hi there 👋
+# Luiz Eduardo Bentemuler Rodrigues
+I am a quantitative researcher specializing in empirical economics, econometrics, and statistics. My research interests lie at the intersection of applied macroeconomics, macro-development, and computational social sciences.
 
-<!--
-**LuizEduardoBentemulerRodrigues/LuizEduardoBentemulerRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Research Interests & Academic Focus
+* **Primary Fields:** Empirical Macroeconomics, Empirical Microeconomics, Development Economics, Applied Econometrics.
+* **Technical Domain:** Causal Inference, Macroeconomic modeling, Endorsement of Open Science & Replication Standards.
 
-Here are some ideas to get you started:
+###  Quantitative Stack & Methods
+* **Programming Languages:** R; Julia; Python; Matlab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Academic Identity & Contact
+* **Current Institution:** Federal University of Ceará (UFC) 
+  * *Position:* Member of Brasilian Econometric Society| Teaching Assistant (Introduction to Economics) | B.Sc. Economics (Expected Jan 2027)
+* **ORCID:** Verified Record — [0009-0003-5820-3978](https://orcid.org/0009-0003-5820-3978)
+* **Curriculum Lattes:** [Official Brazilian Research Curriculum](https://lattes.cnpq.br/5665344706180021)
+* **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/luiz-eduardo-b-265126293)
+* **Email:** luiz.eduardo@alu.ufc.br / bentemulereduardo2@gmail.com
