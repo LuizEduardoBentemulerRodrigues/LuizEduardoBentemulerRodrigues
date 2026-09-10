@@ -10,7 +10,7 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 
 ###  Academic Identity & Contact
 * **Current Institution:** Federal University of Ceará (UFC) 
-  * *Position:* Member of Brasilian Econometric Society| Teaching Assistant (Introduction to Economics) | B.Sc. Economics (Expected Jan 2027)
+  * *Position:* Member of Brazilian Econometric Society| Teaching Assistant (Introduction to Economics) | B.Sc. Economics (Expected Jan 2027)
 * **ORCID:** Verified Record — [0009-0003-5820-3978](https://orcid.org/0009-0003-5820-3978)
 * **Curriculum Lattes:** [Official Brazilian Research Curriculum](https://lattes.cnpq.br/5665344706180021)
 * **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/luiz-eduardo-b-265126293)
